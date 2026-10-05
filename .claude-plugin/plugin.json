@@ -1,0 +1,9 @@
+{
+  "name": "cross-session-messaging",
+  "description": "A skill for AI sessions that talk to each other on one machine: Claude Code sessions (ListAgents / SendMessage) and OpenAI Codex (codex exec / codex queue). Which relationship you are in, how to carry a human's approval without asking twice, why 'sent' is not 'read', how to count agreement and read silence, and a fixed message format.",
+  "version": "1.0.0",
+  "author": { "name": "Rurimpa" },
+  "homepage": "https://github.com/Rurimpa/cross-session-messaging",
+  "repository": "https://github.com/Rurimpa/cross-session-messaging",
+  "license": "MIT"
+}
