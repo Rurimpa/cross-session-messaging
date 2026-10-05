@@ -21,7 +21,7 @@ Just ask for something to be passed to another session, as you normally would. F
 - "Have Codex look at this diff"
 - "Send this to the other session"
 
-The skill is loaded by phrases like these. Before sending, it checks whether the other side replies on its own, whether a human's approval is being carried, and what one message should contain. To call it directly: `/cross-session-messaging`.
+The skill is loaded by phrases like these. Before sending, it checks whether the other side replies on its own, whether a human's approval is being carried, and what one message should contain. To call it directly: `/cross-session-messaging:cross-session-messaging` (a skill installed from a plugin gets the plugin name as a prefix).
 
 ## What's inside
 
